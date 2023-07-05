@@ -1,1 +1,4 @@
-# SQL_Modelo_Entidad
+# SQL ENTITY RELATTIONSHIP MODEL
+
+Basic MER designs for DATABASES
+
